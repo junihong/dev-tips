@@ -57,3 +57,6 @@ public class ConstraintViolationExceptionHandler {
     }
 }
 ```
+
+### 참고자료
+[https://www.baeldung.com/spring-validate-list-controller](https://www.baeldung.com/spring-validate-list-controller)
